@@ -13,7 +13,6 @@ import 'package:todoapp/shared/cubit/states.dart';
 class TodoHome extends StatelessWidget
 {
 
-
   final scaffoldKey = GlobalKey<ScaffoldState>();
   final formKey = GlobalKey<FormState>();
 
